@@ -1,0 +1,13 @@
+{
+  "name": "llm-eval-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "server": "node server/index.js",
+    "build": "vite build"
+  },
+  "dependencies": { "react": "^18.2.0", "react-dom": "^18.2.0" },
+  "devDependencies": { "@vitejs/plugin-react": "^4.0.3", "vite": "^4.4.5" }
+}

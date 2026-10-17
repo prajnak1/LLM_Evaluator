@@ -1,0 +1,2 @@
+{"prompt":"What is the capital of Australia?","reference":"Canberra.","context":"Australia is a country in Oceania. Its capital city is Canberra.","metadata":{"topic":"geography","source":"project-authored"}}
+{"prompt":"Does water boil at exactly 100°C in every situation?","reference":"Only at standard atmospheric pressure; the boiling point changes with pressure.","context":"Pure water boils at 100°C at one atmosphere. Boiling point varies with pressure.","metadata":{"topic":"science","source":"project-authored"}}
